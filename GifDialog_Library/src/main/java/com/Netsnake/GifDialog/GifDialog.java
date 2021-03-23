@@ -16,7 +16,7 @@ import java.util.Objects;
 import pl.droidsonroids.gif.GifImageView;
 
 /**
- * Created by betojsc on 08/10/2019.
+ * Created by Netsnake on 23/04/2021
  */
 
 public class GifDialog {
