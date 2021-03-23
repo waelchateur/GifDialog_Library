@@ -1,7 +1,7 @@
 package com.Netsnake.GifDialog;
 
 /**
- * Created by betojsc on 08/10/2019.
+ * Created by Netsnake on 23/03/2021
  */
 
 public interface GifDialogListener {
